@@ -7,9 +7,15 @@ Some features wont work properly in this hosting. Clone this project and run loc
 
 Some screeens are attached below
 
+## ScreenShot 1
+
 ![Screen 1](https://github.com/Techguyash/netflix-clone/blob/master/src/asset/homepage1.png)
 
+## ScreenShot 2
+
 ![Screen 2](https://github.com/Techguyash/netflix-clone/blob/master/src/asset/screen2.png)
+
+## ScreenShot 3
 
 ![Screen 3](https://github.com/Techguyash/netflix-clone/blob/master/src/asset/screen3.png)
 
